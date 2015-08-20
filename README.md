@@ -11,6 +11,7 @@ A list of non-bullshit links and books that you can use to improve yourself.
 * [Grit](https://sites.sas.upenn.edu/duckworth): the tendency to sustain interest in and effort toward very long-term goals.
 * [Mental Contrasting](https://en.wikipedia.org/wiki/Mental_contrasting)
 * [The Power of Habit](http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X)
+* 
 ## Time Management
 * [Why procrastinators procrastinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 * [The Eisenhower Matrix](https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/)
