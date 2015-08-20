@@ -11,9 +11,13 @@ A list of non-bullshit links and books that you can use to improve yourself.
 * [Grit](https://sites.sas.upenn.edu/duckworth): the tendency to sustain interest in and effort toward very long-term goals.
 * [Mental Contrasting](https://en.wikipedia.org/wiki/Mental_contrasting)
 * [The Power of Habit](http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X)
+## Time Management
+* [Why procrastinators procrastinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+* [The Eisenhower Matrix](https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/)
 
 # Happiness
 * [Positive Psychology Coursera](http://positivepsychologyprogram.com/positive-psychology-coursera-course/)
+* [Positive Psychology Harvard]
 * [Buddha's Brain](http://www.amazon.com/Buddhas-Brain-Practical-Neuroscience-Happiness-ebook/dp/B003TU29WU)
 * [An Antidote to the Age of Anxiety](http://www.brainpickings.org/2014/01/06/alan-watts-wisdom-of-insecurity-1/)
 
@@ -41,11 +45,9 @@ A list of non-bullshit links and books that you can use to improve yourself.
 * [Beginner's Health and Fitness Guide](http://liamrosen.com/fitness.html) The very basics for developing an exercise regimen with emphasis on weight training.
 * [/r/fitness](http://www.reddit.com/r/Fitness) One of the most popular exercise communities with an extensive [wiki](https://www.reddit.com/r/Fitness/wiki/index)
 
-# Tools
-## Organization
-[Why and how to be tidy](https://www.farnamstreetblog.com/2014/12/the-life-changing-magic-of-tidying-up/)
-### Tab managers
-* [Tab grouping](https://support.mozilla.org/en-US/kb/tab-groups-organize-tabs?redirectlocale=en-US&redirectslug=what-are-tab-groups): Built-in FireFox tool
+# Organization
+* [Why and how to be tidy](https://www.farnamstreetblog.com/2014/12/the-life-changing-magic-of-tidying-up/)
+* [Tab grouping](https://support.mozilla.org/en-US/kb/tab-groups-organize-tabs?redirectlocale=en-US&redirectslug=what-are-tab-groups): Built-in FireFox tool for decluttering your browser
 
 # Potpurri
 * [The best of Farnam Street Blog](https://www.farnamstreetblog.com/best-articles/) Covers thinking, decision making, innovation, leadership, and more.
