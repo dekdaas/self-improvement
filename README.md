@@ -38,6 +38,17 @@ A list of non-bullshit links and books that you can use to improve yourself.
 * [The Healthy Programmer](http://www.amazon.com/The-Healthy-Programmer-Pragmatic-Programmers/dp/1937785319)
 * [Salt Sugar Fat: How the Food Giants Hooked Us](http://www.amazon.com/Salt-Sugar-Fat-Giants-Hooked/dp/0812982193)
 * [Good Calories, Bad Calories](http://www.amazon.com/Good-Calories-Bad-Controversial-Science/dp/1400033462)
+* [Beginner's Health and Fitness Guide](http://liamrosen.com/fitness.html) The very basics for developing an exercise regimen with emphasis on weight training.
+* [/r/fitness](http://www.reddit.com/r/Fitness) One of the most popular exercise communities with an extensive [wiki](https://www.reddit.com/r/Fitness/wiki/index)
+
+# Tools
+## Organization
+[Why and how to be tidy](https://www.farnamstreetblog.com/2014/12/the-life-changing-magic-of-tidying-up/)
+### Tab managers
+* [Tab grouping](https://support.mozilla.org/en-US/kb/tab-groups-organize-tabs?redirectlocale=en-US&redirectslug=what-are-tab-groups): Built-in FireFox tool
+
+# Potpurri
+* [The best of Farnam Street Blog](https://www.farnamstreetblog.com/best-articles/) Covers thinking, decision making, innovation, leadership, and more.
 
 # Pull Requests
 Submit a pull request to add more!  All links should be substantive.  This means quick productivity hacks without rational / scientific backing will not be added, nor will feel-good inspirational quotes.
