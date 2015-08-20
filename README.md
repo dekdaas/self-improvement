@@ -18,7 +18,6 @@ A list of non-bullshit links and books that you can use to improve yourself.
 
 # Happiness
 * [Positive Psychology Coursera](http://positivepsychologyprogram.com/positive-psychology-coursera-course/)
-* [Positive Psychology Harvard]
 * [Buddha's Brain](http://www.amazon.com/Buddhas-Brain-Practical-Neuroscience-Happiness-ebook/dp/B003TU29WU)
 * [An Antidote to the Age of Anxiety](http://www.brainpickings.org/2014/01/06/alan-watts-wisdom-of-insecurity-1/)
 
