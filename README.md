@@ -24,6 +24,7 @@ A list of non-bullshit links and books that you can use to improve yourself.
 # Social
 * [How to Win Friends And Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/1508569754)
 * [Psychology of Popularity Coursera](https://www.coursera.org/course/popularity): Do you suffer from a [hostile attribution bias](https://en.wikipedia.org/wiki/Attribution_bias#Hostile_attribution_bias)?
+* [Your Body Language Shapes Who You Are](http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) TED
 
 # Learning
 * [Learning How To Learn Coursera](https://www.coursera.org/learn/learning-how-to-learn)
